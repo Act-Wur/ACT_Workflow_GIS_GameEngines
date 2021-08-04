@@ -1,9 +1,7 @@
 # ACT_Workflow_GIS_GameEngines
 
-# This github contains all the resources and scripts needed in the tutorial on how to implement kadaster data in game engines using Esri's ArcGIS Maps SDK for game engines.
+This github contains all the resources that are used in the workflow of how to use Kadaster data in game engines using Esri's ArcGIS Maps SDK for game engines. It is divided in to two parts, the unity part and the unreal engine part, depending on what engine you are using.
 
-# The SDK itself is not included.
-# This SDK can be downloaded from: 
-# Use the tutorial to see how to install the SDK
+Note that the SDK itself is not included, follow the workflow to install this SDK seperately. More info can be found on: https://earlyadopter.esri.com/key/ArcGISforGameEngines
 
-# The tutorials can be followed using this link: https://storymaps.arcgis.com/stories/58a27579b3f74c49938c199f5059360a
+The workflows can be followed using this link: https://storymaps.arcgis.com/stories/58a27579b3f74c49938c199f5059360a
